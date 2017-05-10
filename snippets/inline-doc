@@ -1,0 +1,9 @@
+/**
+ * <function_description>
+ *
+ * @function <function_name>
+ * @param {string|number|object|array|boolean} <param_name> - <param_description>
+ * @returns {string|number|object|array|boolean|promise} <returns_description>
+ *
+ * @example
+ */
