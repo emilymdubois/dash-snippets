@@ -1,0 +1,23 @@
+{
+  "name": "",
+  "version": "",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "pretest": "",
+    "test": ""
+  },
+  "bin": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/<username>/<repo>.git"
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/<username>/<repo>/issues"
+  },
+  "homepage": "https://github.com/<username>/<repo>#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
